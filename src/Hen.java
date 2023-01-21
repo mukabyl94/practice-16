@@ -1,8 +1,6 @@
 public class Hen {
     private String country;
     private int egg;
-//    private static int counter;
-//    private boolean sold;
 
     public Hen(String country, int egg) {
         this.country = country;
